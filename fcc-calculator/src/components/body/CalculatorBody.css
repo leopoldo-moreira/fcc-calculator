@@ -1,0 +1,102 @@
+@import 'https://fonts.googleapis.com/css?family=Share+Tech+Mono';
+@font-face {
+    font-family: 'Digital';
+    src: url('//db.onlinewebfonts.com/t/8e22783d707ad140bffe18b2a3812529.eot');
+    src: url('//db.onlinewebfonts.com/t/8e22783d707ad140bffe18b2a3812529.eot?#iefix')
+        format('embedded-opentype'),
+      url('//db.onlinewebfonts.com/t/8e22783d707ad140bffe18b2a3812529.woff2')
+        format('woff2'),
+      url('//db.onlinewebfonts.com/t/8e22783d707ad140bffe18b2a3812529.woff')
+        format('woff'),
+      url('//db.onlinewebfonts.com/t/8e22783d707ad140bffe18b2a3812529.ttf')
+        format('truetype'),
+      url('//db.onlinewebfonts.com/t/8e22783d707ad140bffe18b2a3812529.svg#Digital-7')
+        format('svg');
+}
+
+.calculator{    
+    width: 320px;
+    background-color: #000000;
+    padding: 5px;  
+    position: relative;  
+    border: 2px solid #47476b;
+    margin: auto;    
+}
+
+.formulaScreen{    
+    height: 1rem;
+    width: 320px;
+    font-family: digital, sans-serif;
+    color: orange;
+    text-align: right;
+    min-height: 20px;
+}
+
+.outputScreen{    
+    height: 2rem;
+    width: 320px;
+    color: white;
+    font-family: digital, sans-serif;
+    font-size: 29px;
+    text-align: right;
+}
+
+.btn{
+    color: white;
+    font-size: 20px;
+    font-family: Share Tech Mono, monospace;
+}
+
+.btn:hover{
+    color:#000000;
+    outline: 0.05em solid grey;
+    z-index: 3;
+}
+
+.jumboClear{
+    position: relative;
+    border: none;
+    height: 65px;
+    width: 160px;
+    outline: 1px solid black;
+    background-color: #AC3939;   
+    margin: 0;     
+}
+
+.jumboZero{
+    position: relative;
+    border: none;
+    height: 65px;
+    width: 160px;
+    outline: 1px solid black;
+    background-color: #4D4D4D;        
+}
+
+.numberButton{
+    position: relative;
+    border: none;
+    height: 65px;
+    width: 80px;
+    outline: 1px solid black;
+    background-color: #4D4D4D;
+    margin: 0;
+}
+
+.operatorButton{
+    position: relative;
+    border: none;
+    height: 65px;
+    width: 80px;
+    outline: 1px solid black;
+    background-color: #666666;
+    margin: 0px;
+}
+
+.equals{
+    position: relative;
+    border: none;
+    height: 130px;
+    width: 80px;
+    outline: 1px solid black;
+    background-color: #666666; 
+}
