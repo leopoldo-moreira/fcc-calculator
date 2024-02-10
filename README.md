@@ -11,7 +11,7 @@
   </div>
 
   <br>
-  <p>Confire os resultados</p>  
+  <p>Confira os resultados</p>  
 
  ![via GIPHY](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXI0NWNnNncyOHB1MGthYWV4MjdtZmgyNnlieTd2YzFpM2drZG00bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uoXyOQP8krDU9m9CR1/giphy.gif)  
  
