@@ -1,5 +1,5 @@
 <div align="center" styles="text-align:center">
-  <h1>Projeto FreeCodeCamp Calculator</h1>
+  <h1>Calculadora em React</h1>
   <h3>Desafio proposto pelo freecodecamp.org - veja <a href="https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator">aqui</a></h3>
   
   ### Tecnologias Utilizadas
